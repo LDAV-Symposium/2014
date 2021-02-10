@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Home</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://ldav2014.sci.utah.edu"/>
+	<id>http://ldav2014.sci.utah.edu/14-program.feed</id>
+	<updated>2017-02-11T08:01:41+00:00</updated>
+	<author>
+		<name>LDAV 2014 IEEE Symposium on Large-Scale Data Analysis and Visualization</name>
+		<email>webmaster@sci.utah.edu</email>
+	</author>
+	<generator uri="https://www.joomla.org"></generator>
+	<link rel="self" type="application/atom+xml" href="http://ldav2014.sci.utah.edu/14-program.feed?type=atom"/>
+	<entry>
+		<title>Anders Ynnerman: Inside Information - From Martian Meteorites to Mummies</title>
+		<link rel="alternate" type="text/html" href="http://ldav2014.sci.utah.edu/14-program/11-keynote-ynnerman.html"/>
+		<published>2014-11-10T18:07:54+00:00</published>
+		<updated>2014-11-10T18:07:54+00:00</updated>
+		<id>http://ldav2014.sci.utah.edu/14-program/11-keynote-ynnerman.html</id>
+		<author>
+			<name>Erik Jorgensen</name>
+			<email>erikj@sci.utah.edu</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img style=&quot;margin-right: 10px; margin-bottom: 5px; border: 1px solid #000000; float: left;&quot; src=&quot;http://ldav2014.sci.utah.edu/images/people/AndersYnnerman.jpg&quot; alt=&quot;AndersYnnerman&quot; width=&quot;221&quot; height=&quot;264&quot; /&gt;November 9, 2:30 pm. - 3:40 pm.&lt;/p&gt;
+&lt;p&gt;In the last decades imaging modalities have advanced beyond recognition and data of rapidly increasing size and quality can be captured with high speed. This talk will show how data visualization can be used to provide public visitor venues, such as museums, science centers and zoos with unique interactive learning experiences. By combining data visualization techniques with technologies such as interactive multi-touch tables and intuitive user interfaces, visitors can conduct guided browsing of large volumetric image data. The visitors then themselves become the explorers of the normally invisible interior of unique artifacts and subjects. The talk will take its starting point in the current state-of-the-art in CT and MRI scanning technology. It will then discuss the latest high-quality interactive volume rendering and multi-resolution techniques for large scale data and how they are tailored for use in public spaces. Examples will then be shown of how the inside workings of the human body, exotic animals, natural history subjects, such as the martian meteorite, or even mummies can be explored interactively. The recent mummy installation at the British Museum will be shown and discussed from both a curator and visitor perspective and results from a 3 month trial period in the galleries will be presented.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;&lt;br /&gt;Professor Anders Ynnerman received a Ph.D. in physics from Gothenburg University. During the early 90s he was at Oxford University, UK, and Vanderbilt University, USA. From 1997 to 2002 he directed the Swedish National Supercomputer Centre and from 2002 to 2006 he directed the Swedish National Infrastructure for Computing (SNIC). Since 1999 he has held a chair in scientific visualization at Linköping University and is the director of the Norrköping Visualization Center – C.&lt;/p&gt;
+&lt;p&gt;Ynnerman is a member of the Swedish Royal Academy of Engineering Sciences and a board member of the Foundation for Strategic Research. In 2007 Ynnerman was awarded the Akzo Nobel Science award and the Golden Mouse award for Swedish IT-person of the year. In 2009 he received the Athena Award for best medical clinical research in Sweden and in 2010 he received the Swedish Knowledge Award for dissemination of scientific knowledge to the public. In 2011 he received the IVA gold medal from the King of Sweden. He is currently vice chair of the Eurographics Association and is papers co-chair of IEEE SciVis 2014.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img style=&quot;margin-right: 10px; margin-bottom: 5px; border: 1px solid #000000; float: left;&quot; src=&quot;http://ldav2014.sci.utah.edu/images/people/AndersYnnerman.jpg&quot; alt=&quot;AndersYnnerman&quot; width=&quot;221&quot; height=&quot;264&quot; /&gt;November 9, 2:30 pm. - 3:40 pm.&lt;/p&gt;
+&lt;p&gt;In the last decades imaging modalities have advanced beyond recognition and data of rapidly increasing size and quality can be captured with high speed. This talk will show how data visualization can be used to provide public visitor venues, such as museums, science centers and zoos with unique interactive learning experiences. By combining data visualization techniques with technologies such as interactive multi-touch tables and intuitive user interfaces, visitors can conduct guided browsing of large volumetric image data. The visitors then themselves become the explorers of the normally invisible interior of unique artifacts and subjects. The talk will take its starting point in the current state-of-the-art in CT and MRI scanning technology. It will then discuss the latest high-quality interactive volume rendering and multi-resolution techniques for large scale data and how they are tailored for use in public spaces. Examples will then be shown of how the inside workings of the human body, exotic animals, natural history subjects, such as the martian meteorite, or even mummies can be explored interactively. The recent mummy installation at the British Museum will be shown and discussed from both a curator and visitor perspective and results from a 3 month trial period in the galleries will be presented.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;&lt;br /&gt;Professor Anders Ynnerman received a Ph.D. in physics from Gothenburg University. During the early 90s he was at Oxford University, UK, and Vanderbilt University, USA. From 1997 to 2002 he directed the Swedish National Supercomputer Centre and from 2002 to 2006 he directed the Swedish National Infrastructure for Computing (SNIC). Since 1999 he has held a chair in scientific visualization at Linköping University and is the director of the Norrköping Visualization Center – C.&lt;/p&gt;
+&lt;p&gt;Ynnerman is a member of the Swedish Royal Academy of Engineering Sciences and a board member of the Foundation for Strategic Research. In 2007 Ynnerman was awarded the Akzo Nobel Science award and the Golden Mouse award for Swedish IT-person of the year. In 2009 he received the Athena Award for best medical clinical research in Sweden and in 2010 he received the Swedish Knowledge Award for dissemination of scientific knowledge to the public. In 2011 he received the IVA gold medal from the King of Sweden. He is currently vice chair of the Eurographics Association and is papers co-chair of IEEE SciVis 2014.&lt;/p&gt;</content>
+		<category term="Program" />
+	</entry>
+	<entry>
+		<title>Program</title>
+		<link rel="alternate" type="text/html" href="http://ldav2014.sci.utah.edu/program.html"/>
+		<published>2013-10-03T17:50:26+00:00</published>
+		<updated>2013-10-03T17:50:26+00:00</updated>
+		<id>http://ldav2014.sci.utah.edu/program.html</id>
+		<author>
+			<name>Erik Jorgensen</name>
+			<email>erikj@sci.utah.edu</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;schedule&quot;&gt;
+&lt;h3&gt;November 9&lt;/h3&gt;
+&lt;table class=&quot;schedule&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width=&quot;120&quot;&gt;Time&lt;/th&gt;&lt;th&gt;Event&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2:00 - 2:25&lt;/td&gt;
+&lt;td&gt;Opening Remarks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2:25 - 2:30&lt;/td&gt;
+&lt;td&gt;Day 1 Fast Forward&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2:30 - 3:40&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;Keynote Presentation:&lt;br /&gt;&lt;a href=&quot;http://ldav2014.sci.utah.edu/index.php?option=com_content&amp;amp;view=article&amp;amp;id=11:keynote-ynnerman&amp;amp;catid=14:program&amp;amp;Itemid=101&quot;&gt;Anders Ynnerman: Inside Information - From Martian Meteorites to Mummies&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3:40 - 4:15&lt;/td&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4:15 - 5:45&lt;/td&gt;
+&lt;td&gt;Session #1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5:45 - 5:55&lt;/td&gt;
+&lt;td&gt;Posters Fast Forward&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6:00 - 8:00&lt;/td&gt;
+&lt;td&gt;Symposium Reception and Poster Session&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div class=&quot;schedule&quot;&gt;
+&lt;h3&gt;November 10&lt;/h3&gt;
+&lt;table class=&quot;schedule&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width=&quot;120&quot;&gt;Time&lt;/th&gt;&lt;th&gt;Event&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8:30 - 8:40&lt;/td&gt;
+&lt;td&gt;Day 2 Fast Forward&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8:40 - 10:10&lt;/td&gt;
+&lt;td&gt;Session #2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:10 - 10:40&lt;/td&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:40 - 12:10&lt;/td&gt;
+&lt;td&gt;Session #3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:10 - 2:00&lt;/td&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2:00 - 3:30&lt;/td&gt;
+&lt;td&gt;Session #4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3:30 - 3:40&lt;/td&gt;
+&lt;td&gt;LDAV Awards and Closing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Session #1: Exploiting Modern Architectures for Visualization&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Visualizing Large 3D Geodesic Grid Data with Massively Distributed GPUs&lt;/strong&gt;&lt;br /&gt; Jinrong Xie, Hongfeng Yu, Kwan-Liu Ma&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Multi-Threaded Streamline Tracing for Data-Intensive Architectures&lt;/strong&gt;&lt;br /&gt; Ming Jiang, Brian Van Essen, Cyrus Harrison, Maya Gokhale&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cache-Aware Sampling Strategies for Texture-Based Ray Casting on GPU&lt;/strong&gt;&lt;br /&gt; Junpeng Wang, Fei Yang, Yong Cao&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Session #2: Foundational Techniques for Large and Complex Data&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Data-Parallel Halo Finding with Variable Linking Lengths&lt;/strong&gt;&lt;br /&gt;Wathsala Widanagamaachchi, Peer-Timo Bremer, Christopher Sewell, Li-Ta&lt;br /&gt;Lo, James Ahrens, Valerio Pascucci&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Multivariate Volume Visualization through Dynamic Projections&lt;/strong&gt;&lt;br /&gt;Shusen Liu, Bei Wang, Jayaraman J. Thiagarajan, Peer-Timo Bremer,&lt;br /&gt;Valerio Pascucci&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ADR Visualization: A Generalized Framework for Ranking Large-Scale&lt;/strong&gt;&lt;strong&gt;Scientific Data using Analysis-Driven Refinement&lt;/strong&gt;&lt;br /&gt;Boonthanome Nouanesengsy, Jonathan Woodring, Kary Myers, John Patchett,&lt;br /&gt;James Ahrens&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Session #3: In Situ Visualization of Large Data&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;In-situ multi-resolution and temporal data compression for visual exploration of large-scale scientific simulations&lt;/strong&gt;&lt;br /&gt;Henry Lehmann, Bernhard Jung&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Space-Time Volumetric Depth Images for In-Situ Visualization&lt;/strong&gt;&lt;br /&gt;Oliver Fernandes, Steffen Frey, Filip Sadlo, Thomas Ertl&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Improved Post Hoc Flow Analysis Via Lagrangian Representations&lt;/strong&gt;&lt;br /&gt;Alexy Agranovsky, David Camp, Christoph Garth, E. Wes Bethel, Kenneth I.&lt;br /&gt;Joy, Hank Childs&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Session #4: Applications to Very Large Data Sets&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Visual Analysis of Large Dental Imaging Data in Caries Research&lt;/strong&gt;&lt;br /&gt;Guangchen Ruan, Hui Zhang&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Visual Analytics of Large-Scale Climate Model Data&lt;/strong&gt;&lt;br /&gt;Pak Chung Wong, Han-Wei Shen, Ruby Leung, Samson Hagos, Teng-Yok Lee,&lt;br /&gt;Xin Tong, Kewei Lu&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Out-of-Core Visualization of Time-Varying Hybrid-Grid Volume Data&lt;/strong&gt;&lt;br /&gt;Min Shih, Yubo Zhang, Kwan-Liu Ma, Jayanarayanan Sitaraman, Dimitri&lt;br /&gt;Mavriplis&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;&amp;nbsp;Accepted Posters&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Visualizing Results in the SALOME Platform for Large Mumerical Simulations: An Integration of ParaView&lt;/strong&gt;&lt;br /&gt;Alejandro Ribés, Adrien Bruneton&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Movie Analytics: Visualization of the Co-starring Network&lt;/strong&gt;&lt;br /&gt;Dominique Haughton, Mark-David McLaughlin, Kevin Mentzer, Changan Zhang&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SeedMe: A Cyberinfrastructure for Sharing Results&lt;/strong&gt;&lt;br /&gt;Amit Chourasia, Mona Wong-Barnum, David Nadeau, Michael L. Norman&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Remote Parallel Rendering for High-Resolution Tiled Display Walls&lt;/strong&gt;&lt;br /&gt;Daniel Nachbaur, Raphael Dumusc, Ahmet Bilgili, Juan Hernando, Stefan Eilemann&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Remote Visualization of Large Scale Fast Dynamic Simulations in a HPC Context&lt;/strong&gt;&lt;br /&gt;Fabien Vivodtzev, Isabelle Bertron&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CosMovis: Analyzing Semantic Network of Sentiment Words in Movie Reviews&lt;/strong&gt;&lt;br /&gt;Hyoji Ha, Gi-nam Kim, Wonjoo Hwang, Hanmin Choi, Kyungwon Lee&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In-situ Processing and Interactive Visualization for Large-Scaled Numerical Simulations&lt;/strong&gt;&lt;br /&gt;Fang Chen, Markus Flatken, Ingrid Hotz, Andreas Gerndt&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UnityMol: Interactive Scientific Visualization for Integrative Biology&lt;/strong&gt;&lt;br /&gt;Sébastien Doutreligne, Tristan Cragnolini, Samuela Pasquali, Philippe Derreumaux, Marc Baaden&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bacterial Gene Neighborhood Investigation Environment: A Large-Scale Genome Visualization for Big Displays&lt;/strong&gt;&lt;br /&gt;Jillian Aurisano, Khairi Reda, Andrew Johnson, Jason Leigh&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parallel Processing and Immersive Visualization of Sonar Point Clouds&lt;/strong&gt;&lt;br /&gt;Alessandro Febretti, Kristof Richmond, Peter Doran, Andrew Johnson&lt;/p&gt;</summary>
+		<content type="html">&lt;div class=&quot;schedule&quot;&gt;
+&lt;h3&gt;November 9&lt;/h3&gt;
+&lt;table class=&quot;schedule&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width=&quot;120&quot;&gt;Time&lt;/th&gt;&lt;th&gt;Event&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2:00 - 2:25&lt;/td&gt;
+&lt;td&gt;Opening Remarks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2:25 - 2:30&lt;/td&gt;
+&lt;td&gt;Day 1 Fast Forward&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2:30 - 3:40&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;Keynote Presentation:&lt;br /&gt;&lt;a href=&quot;http://ldav2014.sci.utah.edu/index.php?option=com_content&amp;amp;view=article&amp;amp;id=11:keynote-ynnerman&amp;amp;catid=14:program&amp;amp;Itemid=101&quot;&gt;Anders Ynnerman: Inside Information - From Martian Meteorites to Mummies&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3:40 - 4:15&lt;/td&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4:15 - 5:45&lt;/td&gt;
+&lt;td&gt;Session #1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5:45 - 5:55&lt;/td&gt;
+&lt;td&gt;Posters Fast Forward&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6:00 - 8:00&lt;/td&gt;
+&lt;td&gt;Symposium Reception and Poster Session&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div class=&quot;schedule&quot;&gt;
+&lt;h3&gt;November 10&lt;/h3&gt;
+&lt;table class=&quot;schedule&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width=&quot;120&quot;&gt;Time&lt;/th&gt;&lt;th&gt;Event&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8:30 - 8:40&lt;/td&gt;
+&lt;td&gt;Day 2 Fast Forward&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8:40 - 10:10&lt;/td&gt;
+&lt;td&gt;Session #2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:10 - 10:40&lt;/td&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:40 - 12:10&lt;/td&gt;
+&lt;td&gt;Session #3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:10 - 2:00&lt;/td&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2:00 - 3:30&lt;/td&gt;
+&lt;td&gt;Session #4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3:30 - 3:40&lt;/td&gt;
+&lt;td&gt;LDAV Awards and Closing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Session #1: Exploiting Modern Architectures for Visualization&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Visualizing Large 3D Geodesic Grid Data with Massively Distributed GPUs&lt;/strong&gt;&lt;br /&gt; Jinrong Xie, Hongfeng Yu, Kwan-Liu Ma&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Multi-Threaded Streamline Tracing for Data-Intensive Architectures&lt;/strong&gt;&lt;br /&gt; Ming Jiang, Brian Van Essen, Cyrus Harrison, Maya Gokhale&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cache-Aware Sampling Strategies for Texture-Based Ray Casting on GPU&lt;/strong&gt;&lt;br /&gt; Junpeng Wang, Fei Yang, Yong Cao&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Session #2: Foundational Techniques for Large and Complex Data&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Data-Parallel Halo Finding with Variable Linking Lengths&lt;/strong&gt;&lt;br /&gt;Wathsala Widanagamaachchi, Peer-Timo Bremer, Christopher Sewell, Li-Ta&lt;br /&gt;Lo, James Ahrens, Valerio Pascucci&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Multivariate Volume Visualization through Dynamic Projections&lt;/strong&gt;&lt;br /&gt;Shusen Liu, Bei Wang, Jayaraman J. Thiagarajan, Peer-Timo Bremer,&lt;br /&gt;Valerio Pascucci&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ADR Visualization: A Generalized Framework for Ranking Large-Scale&lt;/strong&gt;&lt;strong&gt;Scientific Data using Analysis-Driven Refinement&lt;/strong&gt;&lt;br /&gt;Boonthanome Nouanesengsy, Jonathan Woodring, Kary Myers, John Patchett,&lt;br /&gt;James Ahrens&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Session #3: In Situ Visualization of Large Data&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;In-situ multi-resolution and temporal data compression for visual exploration of large-scale scientific simulations&lt;/strong&gt;&lt;br /&gt;Henry Lehmann, Bernhard Jung&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Space-Time Volumetric Depth Images for In-Situ Visualization&lt;/strong&gt;&lt;br /&gt;Oliver Fernandes, Steffen Frey, Filip Sadlo, Thomas Ertl&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Improved Post Hoc Flow Analysis Via Lagrangian Representations&lt;/strong&gt;&lt;br /&gt;Alexy Agranovsky, David Camp, Christoph Garth, E. Wes Bethel, Kenneth I.&lt;br /&gt;Joy, Hank Childs&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Session #4: Applications to Very Large Data Sets&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Visual Analysis of Large Dental Imaging Data in Caries Research&lt;/strong&gt;&lt;br /&gt;Guangchen Ruan, Hui Zhang&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Visual Analytics of Large-Scale Climate Model Data&lt;/strong&gt;&lt;br /&gt;Pak Chung Wong, Han-Wei Shen, Ruby Leung, Samson Hagos, Teng-Yok Lee,&lt;br /&gt;Xin Tong, Kewei Lu&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Out-of-Core Visualization of Time-Varying Hybrid-Grid Volume Data&lt;/strong&gt;&lt;br /&gt;Min Shih, Yubo Zhang, Kwan-Liu Ma, Jayanarayanan Sitaraman, Dimitri&lt;br /&gt;Mavriplis&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;&amp;nbsp;Accepted Posters&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Visualizing Results in the SALOME Platform for Large Mumerical Simulations: An Integration of ParaView&lt;/strong&gt;&lt;br /&gt;Alejandro Ribés, Adrien Bruneton&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Movie Analytics: Visualization of the Co-starring Network&lt;/strong&gt;&lt;br /&gt;Dominique Haughton, Mark-David McLaughlin, Kevin Mentzer, Changan Zhang&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SeedMe: A Cyberinfrastructure for Sharing Results&lt;/strong&gt;&lt;br /&gt;Amit Chourasia, Mona Wong-Barnum, David Nadeau, Michael L. Norman&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Remote Parallel Rendering for High-Resolution Tiled Display Walls&lt;/strong&gt;&lt;br /&gt;Daniel Nachbaur, Raphael Dumusc, Ahmet Bilgili, Juan Hernando, Stefan Eilemann&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Remote Visualization of Large Scale Fast Dynamic Simulations in a HPC Context&lt;/strong&gt;&lt;br /&gt;Fabien Vivodtzev, Isabelle Bertron&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CosMovis: Analyzing Semantic Network of Sentiment Words in Movie Reviews&lt;/strong&gt;&lt;br /&gt;Hyoji Ha, Gi-nam Kim, Wonjoo Hwang, Hanmin Choi, Kyungwon Lee&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In-situ Processing and Interactive Visualization for Large-Scaled Numerical Simulations&lt;/strong&gt;&lt;br /&gt;Fang Chen, Markus Flatken, Ingrid Hotz, Andreas Gerndt&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UnityMol: Interactive Scientific Visualization for Integrative Biology&lt;/strong&gt;&lt;br /&gt;Sébastien Doutreligne, Tristan Cragnolini, Samuela Pasquali, Philippe Derreumaux, Marc Baaden&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bacterial Gene Neighborhood Investigation Environment: A Large-Scale Genome Visualization for Big Displays&lt;/strong&gt;&lt;br /&gt;Jillian Aurisano, Khairi Reda, Andrew Johnson, Jason Leigh&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parallel Processing and Immersive Visualization of Sonar Point Clouds&lt;/strong&gt;&lt;br /&gt;Alessandro Febretti, Kristof Richmond, Peter Doran, Andrew Johnson&lt;/p&gt;</content>
+		<category term="Program" />
+	</entry>
+</feed>

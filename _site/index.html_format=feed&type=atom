@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Home</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://ldav2014.sci.utah.edu"/>
+	<id>http://ldav2014.sci.utah.edu/</id>
+	<updated>2017-02-11T08:01:20+00:00</updated>
+	<generator uri="https://www.joomla.org"></generator>
+	<link rel="self" type="application/atom+xml" href="http://ldav2014.sci.utah.edu/?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Overview</title>
+		<link rel="alternate" type="text/html" href="http://ldav2014.sci.utah.edu/8-general/1-overview.html"/>
+		<published>2013-10-03T17:49:14+00:00</published>
+		<updated>2013-10-03T17:49:14+00:00</updated>
+		<id>http://ldav2014.sci.utah.edu/8-general/1-overview.html</id>
+		<author>
+			<name>Erik Jorgensen</name>
+			<email>erikj@sci.utah.edu</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3&gt;Join us for LDAV 2015 in Chicago, October 25, 26&lt;/h3&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;LDAV 2014 - BigData Analysis and Visualization&lt;/h2&gt;
+&lt;p&gt;In many areas of science, simulations and experiments begin to generate many petabytes of data, with some sciences facing exabytes of data near term. Similarly, the collection of information about the Internet applications and users for a variety of purposes is generating only more data. Our ability to manage, mine, analyze, and visualize the data is fundamental to the knowledge discovery process. That is, the value of data at extreme scale can be fully realized only if we have an end-to-end solution, which demands a collective, inter-disciplinary effort to develop.&lt;/p&gt;
+&lt;p&gt;This new symposium, held in conjunction with IEEE VIS 2014, aims at bringing together domain scientists, data analytics and visualization researchers, and users, and fostering the needed exchange to develop the next-generation data-intensive analysis and visualization technology. Attendees will be introduced to the latest and greatest research innovations in large data management, analysis, and visualization, learn how these innovations impact data intensive computing and knowledge discovery, and also learn about the critical issues in creating a complete solution through both invited and contributed talks, and panel discussion. Paper submissions are solicited for a long paper event that describes large data visualization techniques and systems, and a short paper event for practitioners to describe and present their large data visualization applications. Topic emphasis is on algorithms, languages, systems and hardware that supports the analysis and visualization of large data.&lt;/p&gt;
+&lt;p&gt;There are a variety of ways to participate in LDAV 2014 - papers, posters, and attending. We hope to see you there! Registration is through the &lt;a href=&quot;http://ieeevis.org/&quot; target=&quot;_blank&quot;&gt;IEEE VIS website&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Keynote Presentation&lt;/h2&gt;
+&lt;p&gt;&lt;img style=&quot;margin-right: 10px; margin-bottom: 5px; border: 1px solid #000000; float: left;&quot; src=&quot;http://ldav2014.sci.utah.edu/images/people/AndersYnnerman.jpg&quot; alt=&quot;AndersYnnerman&quot; height=&quot;119&quot; width=&quot;100&quot; /&gt;&lt;a href=&quot;http://ldav2014.sci.utah.edu/index.php?option=com_content&amp;amp;view=article&amp;amp;id=11:keynote-ynnerman&amp;amp;catid=14:program&amp;amp;Itemid=101&quot;&gt;&lt;strong&gt;Anders Ynnerman: &quot;Inside Information - From Martian Meteorites to Mummies&quot;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;clear: both;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Awards&lt;/h2&gt;
+&lt;h3&gt;Best Paper:&lt;/h3&gt;
+&lt;p&gt;Alexy Agranovsky, David Camp, Christoph Garth, E. Wes Bethel, Kenneth I. Joy and Hank Childs.&lt;br /&gt;University of California Davis, Lawrence Berkeley National Laboratories, University of Oregon, and University of Kaiserslautern.&lt;br /&gt;&quot;&lt;strong&gt;Improved Post Hoc Flow Analysis Via Lagrangian Representations&lt;/strong&gt;&quot;&lt;/p&gt;
+&lt;h3&gt;Best Paper Honorable Mention:&lt;/h3&gt;
+&lt;p&gt;Henry Lehmann and Bernhard Jung, Virtual Reality and Multimedia Group, Technical University, Bergakademie Freiberg.&lt;br /&gt;&quot;&lt;strong&gt;In-situ Multi Resolution and Temporal Data Compression for Visual Exploration of Large Scale Scientific Simulations&lt;/strong&gt;&quot;&lt;/p&gt;
+&lt;h3&gt;Best Poster:&lt;/h3&gt;
+&lt;p&gt;Jillian Aurisano, Khairi Reda, Andrew Johnson and Jason Leigh&lt;br /&gt;&quot;&lt;strong&gt;Bacterial Gene Neighborhood Investigation Environment: A Large-Scale Genome Visualization for Big Displays&lt;/strong&gt;&quot;&lt;/p&gt;
+&lt;h3&gt;Best Poster Honorable Mention:&lt;/h3&gt;
+&lt;p&gt;Fabien Vivodtzev and Isabelle Bertron&lt;br /&gt;&quot;&lt;strong&gt;Remote Visualization of Large Scale Fast Dynamic Simulations in a HPC Context&lt;/strong&gt;&quot;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3&gt;Join us for LDAV 2015 in Chicago, October 25, 26&lt;/h3&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;LDAV 2014 - BigData Analysis and Visualization&lt;/h2&gt;
+&lt;p&gt;In many areas of science, simulations and experiments begin to generate many petabytes of data, with some sciences facing exabytes of data near term. Similarly, the collection of information about the Internet applications and users for a variety of purposes is generating only more data. Our ability to manage, mine, analyze, and visualize the data is fundamental to the knowledge discovery process. That is, the value of data at extreme scale can be fully realized only if we have an end-to-end solution, which demands a collective, inter-disciplinary effort to develop.&lt;/p&gt;
+&lt;p&gt;This new symposium, held in conjunction with IEEE VIS 2014, aims at bringing together domain scientists, data analytics and visualization researchers, and users, and fostering the needed exchange to develop the next-generation data-intensive analysis and visualization technology. Attendees will be introduced to the latest and greatest research innovations in large data management, analysis, and visualization, learn how these innovations impact data intensive computing and knowledge discovery, and also learn about the critical issues in creating a complete solution through both invited and contributed talks, and panel discussion. Paper submissions are solicited for a long paper event that describes large data visualization techniques and systems, and a short paper event for practitioners to describe and present their large data visualization applications. Topic emphasis is on algorithms, languages, systems and hardware that supports the analysis and visualization of large data.&lt;/p&gt;
+&lt;p&gt;There are a variety of ways to participate in LDAV 2014 - papers, posters, and attending. We hope to see you there! Registration is through the &lt;a href=&quot;http://ieeevis.org/&quot; target=&quot;_blank&quot;&gt;IEEE VIS website&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Keynote Presentation&lt;/h2&gt;
+&lt;p&gt;&lt;img style=&quot;margin-right: 10px; margin-bottom: 5px; border: 1px solid #000000; float: left;&quot; src=&quot;http://ldav2014.sci.utah.edu/images/people/AndersYnnerman.jpg&quot; alt=&quot;AndersYnnerman&quot; height=&quot;119&quot; width=&quot;100&quot; /&gt;&lt;a href=&quot;http://ldav2014.sci.utah.edu/index.php?option=com_content&amp;amp;view=article&amp;amp;id=11:keynote-ynnerman&amp;amp;catid=14:program&amp;amp;Itemid=101&quot;&gt;&lt;strong&gt;Anders Ynnerman: &quot;Inside Information - From Martian Meteorites to Mummies&quot;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;clear: both;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Awards&lt;/h2&gt;
+&lt;h3&gt;Best Paper:&lt;/h3&gt;
+&lt;p&gt;Alexy Agranovsky, David Camp, Christoph Garth, E. Wes Bethel, Kenneth I. Joy and Hank Childs.&lt;br /&gt;University of California Davis, Lawrence Berkeley National Laboratories, University of Oregon, and University of Kaiserslautern.&lt;br /&gt;&quot;&lt;strong&gt;Improved Post Hoc Flow Analysis Via Lagrangian Representations&lt;/strong&gt;&quot;&lt;/p&gt;
+&lt;h3&gt;Best Paper Honorable Mention:&lt;/h3&gt;
+&lt;p&gt;Henry Lehmann and Bernhard Jung, Virtual Reality and Multimedia Group, Technical University, Bergakademie Freiberg.&lt;br /&gt;&quot;&lt;strong&gt;In-situ Multi Resolution and Temporal Data Compression for Visual Exploration of Large Scale Scientific Simulations&lt;/strong&gt;&quot;&lt;/p&gt;
+&lt;h3&gt;Best Poster:&lt;/h3&gt;
+&lt;p&gt;Jillian Aurisano, Khairi Reda, Andrew Johnson and Jason Leigh&lt;br /&gt;&quot;&lt;strong&gt;Bacterial Gene Neighborhood Investigation Environment: A Large-Scale Genome Visualization for Big Displays&lt;/strong&gt;&quot;&lt;/p&gt;
+&lt;h3&gt;Best Poster Honorable Mention:&lt;/h3&gt;
+&lt;p&gt;Fabien Vivodtzev and Isabelle Bertron&lt;br /&gt;&quot;&lt;strong&gt;Remote Visualization of Large Scale Fast Dynamic Simulations in a HPC Context&lt;/strong&gt;&quot;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="General info" />
+	</entry>
+</feed>
